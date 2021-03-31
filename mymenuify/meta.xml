@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>MyMenuify GUI</name>
+	<version>2.2</version>
+        <release_date>20090529194500</release_date>
+	<coder>icefire</coder>
+	<short_description>Install Wii cSM</short_description>
+	<long_description>WARNING: This program allows you to make modifications to your Wii that could cause a brick! Be certain to have brick protection installed! Preloader .29 or bootmii installed as boot2 highly advised!
+
+This version of MyMenuify features a GUI interface and allows cSMs to be stored anywhere on your card as well as faster install speeds.
+
+Check for newer versions at http://www.wadder.net in the MyMenu forum. 
+There is also a wiki located at http://www.wadder.net/wiki.</long_description>
+</app>
+
